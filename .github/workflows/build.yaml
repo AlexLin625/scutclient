@@ -6,6 +6,7 @@ on:
       - master
   push:
   release:
+  workflow_dispatch:
 
 jobs:
   build:
